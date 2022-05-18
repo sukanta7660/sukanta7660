@@ -16,6 +16,13 @@ Typically I love to work with PHP as well as Laravel.
   "ui"       : ["Bootstrap", ...more]
 }
 ```
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sukanta7660?cardType=github&theme=merko)](https://git.io/awesome-stats-card)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sukanta7660&langs_count=5&theme=tokyonight)]()
+<!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sukanta7660?cardType=github&theme=merko)](https://git.io/awesome-stats-card)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sukanta7660&langs_count=5&theme=tokyonight)]() -->
+
+<summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/sukanta7660/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sukanta7660&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sukanta7660&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
 
