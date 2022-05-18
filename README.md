@@ -26,6 +26,7 @@ Typically I love to work with PHP as well as Laravel.
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sukanta7660&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/> -->
 	  
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sukanta7660?cardType=level-alternate)](https://git.io/awesome-stats-card)
+[![My Awesome Stats]([https://awesome-github-stats.azurewebsites.net/user-stats/sukanta7660?cardType=level-alternate](https://github-readme-stats.vercel.app/api/top-langs?username=sukanta7660&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia))](https://git.io/awesome-stats-card)
 	
 ----
 
