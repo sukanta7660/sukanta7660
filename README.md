@@ -6,6 +6,7 @@
 
 Typically I love to work with PHP as well as Laravel.
 
+----
 
 ### My stacks
 
@@ -16,8 +17,7 @@ Typically I love to work with PHP as well as Laravel.
   "ui"       : ["Bootstrap", ...more]
 }
 ```
-<!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sukanta7660?cardType=github&theme=merko)](https://git.io/awesome-stats-card)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sukanta7660&langs_count=5&theme=tokyonight)]() -->
+----
 
 ### 💻 GitHub Profile Stats
   <br/>
