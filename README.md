@@ -30,6 +30,6 @@ Typically I love to work with PHP as well as Laravel.
 
 ### ⚡ Recent GitHub Activity
   <br/>
-   <a href="https://github.com/sukanta7660"><img alt="Sukanta Purkayastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sukanta7660&custom_title=Sukanta Purkayastha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/sukanta7660"><img alt="sukanta7660's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sukanta7660&custom_title=sukanta7660's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
