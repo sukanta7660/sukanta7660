@@ -20,3 +20,7 @@ Typically I love to work with PHP as well as Laravel.
 <img width="550px" alt="Sukanta Purkayastha's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=sukanta7660&show_icons=true"/>
 
 [![Sukanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukanta7660&show_icons=true&theme=radical)](https://awesome-github-stats.azurewebsites.net/)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sukanta7660&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sukanta7660&langs_count=5&theme=tokyonight)]()
+
