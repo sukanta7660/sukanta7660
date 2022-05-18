@@ -20,4 +20,4 @@ Typically I love to work with PHP as well as Laravel.
 <img width="550px" alt="Sukanta Purkayastha's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=sukanta7660&show_icons=true"/>
 </br>
 
-![Sukanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukanta7660&show_icons=true&theme=radical)
+[![Sukanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukanta7660&show_icons=true&theme=radical)](https://awesome-github-stats.azurewebsites.net/)
