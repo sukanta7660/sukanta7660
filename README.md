@@ -22,7 +22,6 @@ Typically I love to work with PHP as well as Laravel.
 ### 💻 GitHub Profile Stats
 	  
 [![Sukanta's github stats](https://github-readme-stats.vercel.app/api?username=sukanta7660&count_private=true&width=150px&height=192px&theme=algolia)](https://github.com/sukanta7660/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sukanta7660&show_icons=true&count_private=true&locale=en&layout=compact&theme=algolia" alt="sukanta" height="192px"/>
 	
 ----
 <br>
