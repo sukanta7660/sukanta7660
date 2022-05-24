@@ -26,8 +26,8 @@ Typically I love to work with PHP as well as Laravel.
 ----
 <br>
 
-### ⚡ Recent GitHub Activity
+### ⚡ Language Used
   <br/>
 
-[![Sukanta's github activity graph](https://activity-graph.herokuapp.com/graph?username=sukanta7660&theme=dracula)](https://github.com/sukanta7660/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukanta7660&layout=compact)](https://github.com/sukanta7660/github-readme-stats)
 
