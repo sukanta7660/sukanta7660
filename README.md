@@ -28,6 +28,8 @@ Typically I love to work with PHP as well as Laravel.
 
 ### ⚡ Recent GitHub Activity
   <br/>
-   <a href="https://github.com/sukanta7660"><img alt="sukanta7660's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sukanta7660&custom_title=sukanta7660's%20Contribution%20Graph&theme=react-dark" /></a>
+<!--    <a href="https://github.com/sukanta7660"><img alt="sukanta7660's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sukanta7660&custom_title=sukanta7660's%20Contribution%20Graph&theme=react-dark" /></a> -->
+
+[![Sukanta's github activity graph](https://activity-graph.herokuapp.com/graph?username=sukanta7660&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/sukanta76 60/github-readme-activity-graph)
   <br/>
 
