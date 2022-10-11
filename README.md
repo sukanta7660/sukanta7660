@@ -24,7 +24,11 @@ Typically I love to work with PHP as well as Laravel.
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sukanta7660?cardType=level&theme=prussian)](https://git.io/awesome-stats-card)
 
 ----
+
+### 🔭 Total contributions and streaks
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukanta7660&theme=dark"/>
+
 ----
 
 ### ⚡ Language Used
