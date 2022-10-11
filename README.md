@@ -21,7 +21,7 @@ Typically I love to work with PHP as well as Laravel.
 
 ### 💻 GitHub Profile Stats
 	  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sukanta7660?cardType=level&theme=vue)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sukanta7660?cardType=level&theme=prussian)](https://git.io/awesome-stats-card)
 	
 ----
 <br>
