@@ -29,9 +29,3 @@ Typically I love to work with PHP as well as Laravel.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukanta7660&theme=prussian&hide_border=true"/>
 
-----
-
-### ⚡ Language Used
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukanta7660&layout=compact&theme=prussian&hide_border=true)](https://github.com/sukanta7660/github-readme-stats)
-
