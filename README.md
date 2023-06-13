@@ -13,7 +13,7 @@ Typically I love to work with PHP as well as Laravel.
 ```js
 {
   "frontend" : ["Html", "Css", "Javascript", "Jquery", "Vue" "React", ...more],
-  "backend"  : ["Laravel", "WordPress" ...more],
+  "backend"  : ["Laravel", "WordPress", ...more],
   "ui"       : ["Bootstrap", ...more]
 }
 ```
